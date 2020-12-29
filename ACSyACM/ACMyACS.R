@@ -137,3 +137,5 @@ summary(res)
 fviz_mca_biplot(corres2)
 
 fviz_mca_var(corres2,col.var="contrib")
+
+#fin
